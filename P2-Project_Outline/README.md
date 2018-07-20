@@ -32,5 +32,4 @@ Most of what I want to accomplish I don't yet know. I did not choose this applic
 
 I also have to become quite skilled with object-oriented programming. Each ability, action and trait will have to be its own object. It also has to be persistent and linked to a character. That character, being controlled by a user, within a campaign will need to be able to do things that are unique to them. They'll also need to be able to interact with other characters and monsters.
 ### Project Tracker
-I've been working on this project for over a month so far, so much of what I've done so far won't be included on the board, but I've started a Trello board for my application.
-https://trello.com/b/yYaix3Al
+I've been working on this project for over a month so far, so much of what I've done so far won't be included on the board, but I've started a [Trello board](https://trello.com/b/yYaix3Al) for my application.
