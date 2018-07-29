@@ -17,6 +17,6 @@ For this assignment, you'll create some initial plans for your project.
 
 [Trello board](https://trello.com/b/yYaix3Al)
 
-###Repository for Project
+### Repository for Project
 
 [RNGesus](https://github.com/Rabvc4/rngesus)
