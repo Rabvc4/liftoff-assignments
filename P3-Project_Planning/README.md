@@ -15,4 +15,8 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+[Trello board](https://trello.com/b/yYaix3Al)
+
+###Repository for Project
+
+[RNGesus](https://github.com/Rabvc4/rngesus)
